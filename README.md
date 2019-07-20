@@ -1,5 +1,5 @@
 <a href="">
-  <img src="https://img.shields.io/badge/Project-Website-green.svg"/>
+  <img src="https://img.shields.io/badge/Project-Website-brightgreen.svg"/>
 </a>
 
 <a href="">
@@ -8,7 +8,6 @@
 
 # astro-fe
 
-<h1 align="center">:octocat: CHAT APP :octocat:</h1>
 
   <p align="center">
   <img  src="https://github.com/feriferdinan/chat-app/blob/master/t_video61656966603336584081.gif"/>
@@ -61,8 +60,3 @@ Chat App - Build With React Native and Adonis
     <img width="200" src="">
 
 </div>
-
-## Website 
-<a href="">
-  <img src="https://img.shields.io/badge/Project-Website-blue.svg"/>
-</a>
