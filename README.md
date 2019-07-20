@@ -1,5 +1,5 @@
 <a href="">
-  <img src="https://img.shields.io/badge/Project-Website-blue.svg"/>
+  <img src="https://img.shields.io/badge/Project-Website-green.svg"/>
 </a>
 
 <a href="">
@@ -66,19 +66,3 @@ Chat App - Build With React Native and Adonis
 <a href="">
   <img src="https://img.shields.io/badge/Project-Website-blue.svg"/>
 </a>
-
-
-
-## Contributors
-<center>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/feriferdinan">
-          <img width="100" src="https://avatars3.githubusercontent.com/u/50045891?s=400&u=55e039c150f132ea27bead66967638737eeaf4b5&v=4" alt="Septian Feri Ferdinan"><br/>
-          <sub><b>Septian Feri Ferdinan </b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
