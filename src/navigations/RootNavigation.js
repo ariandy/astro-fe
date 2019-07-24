@@ -1,8 +1,9 @@
 import { createStackNavigator, createAppContainer, createSwitchNavigator } from "react-navigation"
 
-
 import Loading from '../screens/Loading/Loading'
 import Welcome from '../screens/Welcome/Welcome'
+import Register from '../screens/Register'
+import Question from '../screens/Question'
 
 const Initial = createStackNavigator({
     Loading: {
@@ -19,10 +20,22 @@ const App = createStackNavigator({
         navigationOptions : ({navigation}) => ({
             header: null
         })
+    },
+    Register: {
+        screen: Register,
+        navigationOptions: ({ navigation }) => ({
+            header: null
+        })
+    },
+    Question: {
+        screen: Question,
+        navigationOptions: ({ navigation }) => ({
+            header: null
+        })
     }
 },
 {
-    initialRouteName: 'Welcome'
+    initialRouteName: 'Register'
 })
 
 const RootNavigation = createAppContainer(createSwitchNavigator(
@@ -31,7 +44,6 @@ const RootNavigation = createAppContainer(createSwitchNavigator(
         App: App
     },
     {
-
         initialRouteName: 'Initial',
         resetOnBlur: true,
     }
