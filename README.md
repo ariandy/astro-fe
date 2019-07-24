@@ -22,28 +22,28 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Screenshots](#screenshots)
-- [Contributors](#contributors)
 
 ## Related Project
-* <a href="https://github.com/feriferdinan/chat-app-backend-adonis">AdonisJs - CHAT App RESTfull API</a>
+* <a href="https://github.com/ariandy/astro-be">Ortsa Backend</a>
 
 ## Introduction
-Chat App - Build With React Native and Adonis
+Astronaut App Clone - Build With React Native and Adonis
 
 ## Features
-* User can send a private message and group message
-* User can edit, delete own message
-* and more
+* Text
+* Multiple Choice
+* Multiple Select
+
 ## Requirements
 * [`npm`](https://www.npmjs.com/get-npm)
 * [`react-native`](https://facebook.github.io/react-native/)
 
 
-## How To RUn
+## How To Run
 
 1. Clone this repository
    ```
-   $ git clone https://github.com/feriferdinan/chat-app.git
+   $ git clone https://github.com/ariandy/astro-fe.git
    ```
 2. Install all depedencies on the package.json
    ```
