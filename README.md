@@ -6,18 +6,15 @@
   <img src="https://img.shields.io/badge/Progress-60%20%25-red.svg"/>
 </a>
 
-# astro-fe
+<a href="">
+  <img src="https://img.shields.io/badge/APK-Not%20Yet-red.svg"/>
+</a>
+
+# ortsa-fe
 
 <p align="center">
-  <img  src="https://i.imgur.com/t0vho7q.jpg"/>
-  <img  src="https://i.imgur.com/KBlnNBU.jpg"/>
-  <img  src="https://i.imgur.com/vZYqb63.jpg"/>
-  <img  src="https://i.imgur.com/r3lu8yD.jpg"/>
+  Experimental Astronaut app. Built with React Native.
 </p>
-
-<p align="center">
-  Built with React Native.
-   </p>
 
 ## Table of Contents
 
@@ -59,7 +56,9 @@ Chat App - Build With React Native and Adonis
    ```
 
 ## Screenshoot
-<div align="center">
-    <img width="200" src="">
-
-</div>
+<p align="center">
+  <img  src="https://i.imgur.com/t0vho7q.jpg"/>
+  <img  src="https://i.imgur.com/KBlnNBU.jpg"/>
+  <img  src="https://i.imgur.com/vZYqb63.jpg"/>
+  <img  src="https://i.imgur.com/r3lu8yD.jpg"/>
+</p>
