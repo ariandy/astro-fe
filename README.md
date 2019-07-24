@@ -8,8 +8,14 @@
 
 # astro-fe
 
-![Imgur](https://i.imgur.com/t0vho7q.jpg)
-  <p align="center">
+<p align="center">
+  <img  src="https://i.imgur.com/t0vho7q.jpg"/>
+  <img  src="https://i.imgur.com/KBlnNBU.jpg"/>
+  <img  src="https://i.imgur.com/vZYqb63.jpg"/>
+  <img  src="https://i.imgur.com/r3lu8yD.jpg"/>
+</p>
+
+<p align="center">
   Built with React Native.
    </p>
 
