@@ -8,6 +8,7 @@
 
 # astro-fe
 
+![Imgur](https://i.imgur.com/t0vho7q.jpg)
   <p align="center">
   Built with React Native.
    </p>
