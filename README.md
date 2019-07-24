@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/APK-Not%20Yet-red.svg"/>
 </a>
 
-# ortsa-fe
+# Ortsa-fe
 
 <p align="center">
-  Experimental Astronaut app. Built with React Native.
+  Experimental Astronaut app clone. Built with React Native.
 </p>
 
 ## Table of Contents
