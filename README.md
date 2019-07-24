@@ -3,7 +3,7 @@
 </a>
 
 <a href="">
-  <img src="https://img.shields.io/badge/Progress-80%20%25-red.svg"/>
+  <img src="https://img.shields.io/badge/Progress-80%20%25-yellow.svg"/>
 </a>
 
 <a href="">
