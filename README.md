@@ -8,10 +8,6 @@
 
 # astro-fe
 
-
-  <p align="center">
-  <img  src="https://github.com/feriferdinan/chat-app/blob/master/t_video61656966603336584081.gif"/>
-  </p>
   <p align="center">
   Built with React Native.
    </p>
